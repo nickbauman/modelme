@@ -10,7 +10,7 @@ Right now this is just an experiment and a very rudimentary one at that.
 
 ### Requirements
 
-Requires the [Link to the Processing home page](http://www.processing.org/ "Processing language and runtime") and [Link to the SimpleOpenNI Google Code site](https://simple-openni.googlecode.com "SimpleOpenNI"). And a running Kinect, obviously.
+Requires the [Processing language and runtime ](http://www.processing.org/ "Link to Processing Homepage") and [SimpleOpenNI](https://simple-openni.googlecode.com "Link to the SimpleOpenNI Google Code site"). And a running Kinect, obviously.
 
 ### Running
 
