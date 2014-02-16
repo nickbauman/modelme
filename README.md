@@ -10,7 +10,7 @@ Right now this is just an experiment and a very rudimentary one at that.
 
 ### Requirements
 
-Requires the [Processing language and runtime ](http://www.processing.org/ "Link to Processing Homepage") and [SimpleOpenNI](https://simple-openni.googlecode.com "Link to the SimpleOpenNI Google Code site"). And a running Kinect, obviously.
+Requires the [Processing language and runtime ](http://www.processing.org/ "Link to Processing Homepage") and [SimpleOpenNI](https://simple-openni.googlecode.com "Link to the SimpleOpenNI Google Code site"). And a [running Kinect](http://www.amazon.com/s/?ie=UTF8&keywords=kinect+sensor+used&tag=googhydr-20&index=aps&hvadid=18724450644&hvpos=1t1&hvexid=&hvnetw=g&hvrand=1152918722111330700&hvpone=&hvptwo=&hvqmt=b&hvdev=c&ref=pd_sl_6zedxcrl2b_b "Link to Amazon for buying a Kinect"), obviously.
 
 ### Running
 
