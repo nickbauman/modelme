@@ -1,4 +1,4 @@
-## ModelMe: Using the Kinect as a measurement / body model capture tool
+## ModelMe: Kinect for measurement / model capture
 
 Starting with:
     modelme_client/
